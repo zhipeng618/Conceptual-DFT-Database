@@ -1,7 +1,7 @@
 # Conceptual-DFT-Database
 A standardized, solution-phase conceptual density functional theory (CDFT) descriptor database for 257 water-relevant organic contaminants, computed at the B3LYP/6-311G(d,p)/SMD level.
 # Solution-Phase CDFT Descriptor Database for Organic Contaminants
-
+[![DOI](https://zenodo.org/badge/1441806853.svg)](https://doi.org/10.5281/zenodo.23859637)
 A standardized, solution-phase conceptual density functional theory (CDFT) descriptor
 database for **257 water-relevant organic pollutants**. All descriptors were computed
 at the uniform **B3LYP/6-311G(d,p)/SMD** level using Gaussian 16 and Multiwfn 3.8,
