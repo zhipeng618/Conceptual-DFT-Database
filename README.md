@@ -17,6 +17,10 @@ The database accompanies:
 > for high-throughput contaminant assessment.* **[Journal]**, [Year].
 > DOI: [10.xxxx/xxxxx]
 
+| File | Description |
+|---|---|
+| `data/cdft_global_descriptors_257.csv` | One row per compound; 18 global CDFT descriptors plus identifiers |
+| `CDFT_raw_outputs_257_molecules.zip` | Raw Multiwfn output text files (.txt) containing all computed descriptors for each of the 257 compounds |
 ---
 
 ## 1. Database Overview
